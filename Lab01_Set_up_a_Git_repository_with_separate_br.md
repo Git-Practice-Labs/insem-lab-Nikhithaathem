@@ -29,8 +29,8 @@ VS Code or any code editor installed
 
 Basic Git configuration done:
 
-git config --global user.name "YourName"
-git config --global user.email "youremail@example.com"
+git config --global user.name "Nikhithaathem"
+git config --global user.email "Nikhithaathem@gmail.com"
 
 Steps / Commands
 Step 1: Create a new Git repository
