@@ -1,7 +1,8 @@
 # Lab 01: Set up a Git repository with separate branches for frontend and backend, then merge them into the main branch.
 
 ## Objective
-Describe the objective of this lab here.
+Set up a Git repository with separate branches for frontend and backend, then merge them into the main branch.
+
 
 ## Tools / Technologies
 List the tools and technologies required (e.g., Git, GitHub, Docker, Jenkins).
